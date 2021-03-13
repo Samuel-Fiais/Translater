@@ -1,0 +1,19 @@
+{
+  "name": "translater",
+  "version": "0.0.1",
+  "description": " Aplicação com NodeJs que traduz palavras ou frases de um idioma qualquer para outro idioma qualquer via terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel-Fiais/Translater.git"
+  },
+  "author": "Samuel Fiais",
+  "license": "MIT Licence",
+  "bugs": {
+    "url": "https://github.com/Samuel-Fiais/Translater/issues"
+  },
+  "homepage": "https://github.com/Samuel-Fiais/Translater#readme"
+}

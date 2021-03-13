@@ -12,6 +12,10 @@
   },
   "author": "Samuel Fiais",
   "license": "MIT Licence",
+  "dependencies": {
+    "puppeteer": "^5.5.0",
+    "readline-sync": "^1.4.10"
+  },
   "bugs": {
     "url": "https://github.com/Samuel-Fiais/Translater/issues"
   },
